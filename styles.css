@@ -1,0 +1,175 @@
+
+.row{
+  margin: 0px;
+}
+#title{
+  background-color: #ff4c68;
+  color: #ffccd5;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.testimonial-statement{
+  color:#fae0e4;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.container-fluid{
+  padding: 3% 10% 11%;
+
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #fae0e4;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navitem{
+  padding: 0 18px;
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.title-image{
+  width: 60%;
+  transform: rotate(30deg);
+  position: absolute;
+  right: 30%;
+}
+.col-lg-4{
+  text-align: center;
+  padding: 8%;
+
+
+}
+.fas{
+color:#ff4c68;
+font-size: 3rem;
+padding: 3%;
+
+}
+.fas:hover{
+  color:red;
+}
+.shit{
+  color: #6d597a;
+}
+.umm{
+  margin: 0px;
+  padding: 0 12%
+}
+#testimonials{
+  background-color:#fa2d56;
+  text-align: center;
+  padding-top: 5%;
+  padding-left:13%;
+  padding-right:13%;
+}
+.testimonial-image{
+  width: 15%;
+  margin: 4%;
+}
+#press{
+background-color:#ff4c68;
+text-align: center;
+padding-top: 2%;
+}
+.press-image{
+  width: 10%;
+  margin-bottom: 2%;
+}
+.testimonial-imagefinal{
+  width: 40.2%;
+  height: 30%;
+  margin: 0.2%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#pricing{
+
+  margin:;
+  text-align: center;
+}
+.mastiff{
+  position: relative;
+  right: 0px;
+
+}
+.chihuahua{
+  position: relative;
+  right: 15px;
+}
+.shithole{
+  background-color: #fae0e4;
+  padding-left:100px;
+}
+.card{
+  background-color: #fff0f3;
+  border-color: #c9184a;
+  border-radius: 4%;
+}
+.card-text{
+  font-size: 13px;
+}
+.yup{
+  text-align: center;
+}
+.yo1{
+  position: relative;
+  top: 27px;
+}
+.yo2{
+  position: relative;
+  top: 35px;
+}
+.yo3{
+  position: relative;
+  top: 39px;
+}
+#features{
+  background-color: #ffffff;
+  position: relative;
+}
+#cta{
+  text-align: center;
+  background-color: #ff0a54;
+  padding-top: 3%;
+}
+#footer{
+  background-color: #990033;
+  padding: 20px;
+  text-align: center;
+}
+.foooter{
+  color:#fae0e4;
+  font-size: 1.5rem;
+  margin: 2%;
+}
+.foooter:hover{
+  color:#ff4c68;
+}
+@media (max-width: 1015px) {
+  .title-image{
+    transform: rotate(0deg);
+    position: static;
+  }
+  .meh{
+    text-align: center;
+  }
+  .shithole{
+    text-align: center;
+  }
+  .col-lg-4{
+    text-align: center;
+  }
+}

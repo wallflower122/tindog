@@ -1,0 +1,47 @@
+.about{
+  background-color: #a7e8bd;
+  text-align: center;
+  padding-top: 15%;
+}
+.abouttext{
+  color: #254441;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact{
+  background-color: #b5d6d6;
+  text-align: center;
+  padding-top: 15%;
+}
+.contacttext{
+  color: #273043;
+  font-family: 'Montserrat', sans-serif;
+}
+.customer{
+  background-color: #daefb3;
+  text-align: center;
+  padding-top: 15%;
+}
+.customertext{
+  color:#254441;
+  font-family: 'Montserrat', sans-serif;
+}
+.youdont{
+  background-color: #ceb684;
+  text-align: center;
+  padding-top: 15%;
+}
+.youdonttext{
+  color: #352d1d;
+  font-family: 'Montserrat', sans-serif;
+}
+.far{
+  color: ##352d1d;
+  font-size: 1.5rem;
+}
+.fas{
+  color: ##352d1d;
+  font-size: 1.5rem;
+}
+.fa-smile{
+  
+}
